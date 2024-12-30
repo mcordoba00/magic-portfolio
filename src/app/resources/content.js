@@ -8,8 +8,8 @@ const person = {
     },
     role:      'Spanish Teacher',
     avatar:    '/images/avatar.jpg',
-    location:  'Asia/Jakarta',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-    languages: ['English', 'Bahasa']  // optional: Leave the array empty if you don't want to display languages
+    location:  'Asia/Bangkok',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+    languages: ['English', 'Español']  // optional: Leave the array empty if you don't want to display languages
 }
 
 const newsletter = {
